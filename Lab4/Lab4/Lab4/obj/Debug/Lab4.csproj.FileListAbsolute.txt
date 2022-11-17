@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2012\Projects\Lab4\Lab4\bin\Debug\Lab4.exe.config
+c:\users\acer\documents\visual studio 2012\Projects\Lab4\Lab4\bin\Debug\Lab4.exe
+c:\users\acer\documents\visual studio 2012\Projects\Lab4\Lab4\bin\Debug\Lab4.pdb
+c:\users\acer\documents\visual studio 2012\Projects\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2012\Projects\Lab4\Lab4\obj\Debug\Lab4.exe
+c:\users\acer\documents\visual studio 2012\Projects\Lab4\Lab4\obj\Debug\Lab4.pdb

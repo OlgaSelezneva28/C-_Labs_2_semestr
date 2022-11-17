@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2012\Projects\Lab1-4(9 Option)\Lab1-4(9 Option)\bin\Debug\Lab1-4(9 Option).exe.config
+c:\users\acer\documents\visual studio 2012\Projects\Lab1-4(9 Option)\Lab1-4(9 Option)\bin\Debug\Lab1-4(9 Option).exe
+c:\users\acer\documents\visual studio 2012\Projects\Lab1-4(9 Option)\Lab1-4(9 Option)\bin\Debug\Lab1-4(9 Option).pdb
+c:\users\acer\documents\visual studio 2012\Projects\Lab1-4(9 Option)\Lab1-4(9 Option)\obj\Debug\Lab1-4(9 Option).csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2012\Projects\Lab1-4(9 Option)\Lab1-4(9 Option)\obj\Debug\Lab1-4(9 Option).exe
+c:\users\acer\documents\visual studio 2012\Projects\Lab1-4(9 Option)\Lab1-4(9 Option)\obj\Debug\Lab1-4(9 Option).pdb
